@@ -61,7 +61,7 @@ const search =(e)=>{
 
      <input ref={searchInputRef}/>
 
-     <button onclick={search}></button>
+     <button onClick={search}></button>
      </form>
     
 
