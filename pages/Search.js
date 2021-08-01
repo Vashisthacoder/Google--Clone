@@ -1,5 +1,5 @@
 import Header from "./component/Header";
-import {API_KEY , CONTEXT_KEY} from '../keys';
+
 import Response from "../Response";
 import { useRouter } from "next/dist/client/router";
 import SearchResults from "./component/SearchResults";
